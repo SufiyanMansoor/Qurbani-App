@@ -1,0 +1,21 @@
+.tou
+{
+ background-color: #e3e7f0;
+
+
+}
+
+
+
+
+#tour-view .slider {
+    height: 100%;
+}
+#tour-view .slider-slide {
+    padding-top: 100px;
+    text-align: center;
+}
+#tour-view .icon-slide {
+    font-size: 20em;
+    display: inline-block;
+}
